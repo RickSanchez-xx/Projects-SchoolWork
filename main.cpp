@@ -33,7 +33,9 @@ int main(){
                          for(int j5 = 0; j5 <= 9; j5++){
                              window[5] = j5;
 
-                             odometerReads();#include <iostream>
+                             odometerReads();
+                             
+#include <iostream>
 #include <cstdlib>
 #include <iostream>
                              using namespace std;
